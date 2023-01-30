@@ -1,0 +1,5 @@
+I have ubuntu (correct version installed). and have setup ROS. I have also 
+brushed up on my git skills. I am still working on getting this vm set up on my
+ laptop. 
+
+I have git setup and it working
