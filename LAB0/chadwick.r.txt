@@ -3,3 +3,5 @@ brushed up on my git skills. I am still working on getting this vm set up on my
  laptop. 
 
 I have git setup and it working
+
+I could not get the turtle to move
