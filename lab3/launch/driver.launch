@@ -1,0 +1,4 @@
+<launch>
+  <arg name="port"/>
+  <node name="driver" pkg="lab3_package" type="lab3_publisher.py" output="screen" args="$(arg port)"/>
+</launch>
